@@ -1,0 +1,34 @@
+# This is the default format.
+# For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink: /:categories/:year/:month/:day/:title
+
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "License.md"]
+highlighter: rouge
+title: blog
+production_url: https://sasanka20.github.io/blog
+author:
+  name: Jaroslav Bezdek
+  email: bezdekjarda@seznam.cz
+  github: sasanka20
+
+# Tell Github to use the kramdown markdown interpreter
+# (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
+markdown: kramdown
+
+# All Jekyll-Bootstrap specific configurations are namespaced into this hash
+JB:
+  version: 0.3.0
+
+  BASE_PATH: https://sasanka20.github.io/blog
+
+  archive_path: nil
+  categories_path: nil
+  tags_path: nil
+  atom_path: nil
+  rss_path: nil
+  comments:
+    provider: false
+  analytics:
+    provider: false
+  sharing:
+    provider: false
