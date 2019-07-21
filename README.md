@@ -1,2 +1,2 @@
 # blog
-My personal blog about data analysis, coding, and travelling. 
+My personal blog about data analysis, programming, and traveling. 

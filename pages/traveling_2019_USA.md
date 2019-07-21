@@ -250,7 +250,7 @@ ručníky a papír s “návodem k použití” (heslo k wi-fi, informace, kde j
 odpadkový koš, kde najdeme čaj, jak se používá sprcha atd.). Protože jsme byli
 unavení po túře, jen jsme se osprchovali a šli spát.
 
-### DEN 9
+#### DEN 9
 
 Den s pořadovým číslem 9 byl specifický v tom, že jsme na něj na poslední chvíli
 změnili program. Důvodem bylo počasí. Původně jsme měli jet do národního parku
@@ -280,7 +280,7 @@ Po průjezdu parkem jsme jeli na hotel, kde jsme se ubytovali a zašli se najís
 Já jsem si dal špagety s&nbsp;masovými koulemi a Klára si dala grilované kuřecí
 kousky v tortile.
 
-### DEN 10
+#### DEN 10
 
 Další den jsme spali o něco déle, abychom nabrali síly po náročné cestě. Na
 snídani jsme potom zašli do stejné hotelové restaurace, kde jsme měli den před
@@ -307,7 +307,7 @@ chlapů přeoperovaných na holky a jiných individuí, kolik jsem jich nepotkal
 za pět let studia v Praze. Upřímně musím říct, že jsem byl po návratu na hotel
 rád, že jsme zase zpátky.
 
-### DEN 11
+#### DEN 11
 
 Jedenáctý den nás čekala jen prohlídka Las Vegas, proto jsme zase spali o něco
 déle. Po snídani jsme vyrazili nadzemkou na začátek hlavní ulice v Las Vegas,
@@ -337,7 +337,7 @@ Po návratu na hotel jsme zašli ještě do hotelového kasína, kde jsme zkusil
 štěstí v místních automatech. Po asi 20 minutách jsme byli chudší o 10 dolarů,
 takže jsme to zabalili a šli na večeři do McDonald’s :-)
 
-### DEN 12
+#### DEN 12
 
 Dvanáctý den jsme se vzbudili hned brzo ráno, odhlásili se z hotelu v Las Vegas
 a vyrazili znovu na cestu. Naší další zastávkou byl národní park Zion. I když
@@ -368,7 +368,7 @@ do Page ve státu Arizona. Jedná se o&nbsp;malé městečko, kam jsme dorazili 
 sedmé hodiny, ubytovali se do jednoho domu přes Airbnb a zašli na pizzu do Pizza
 Hutu :-)
 
-### DEN 13
+#### DEN 13
 
 Poslední den naší výpravy nezačal úplně podle plánu. Den předem jsme totiž
 obdrželi zprávu o tom, že se kvůli počasí ruší naše prohlídka místa zvaného
@@ -437,7 +437,7 @@ jsme tam byli. Byl to vážně zážitek.
 Kolem čtvrté hodiny jsme potom nasedli do auta a vyrazili na čtyřhodinovou cestu
 zpět do Las Vegas, kde jsme se ubytovali, pobalili věci domů a šli si lehnout.
 
-### DEN 14
+#### DEN 14
 
 Ráno jsme vstali, vrátili auto do půjčovny a pádili po trase Las Vegas - LA -
 Vídeň - Brno zpět domů :-)
