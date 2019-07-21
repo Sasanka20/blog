@@ -1,72 +1,47 @@
 ---
 layout: page
 title: blog
-tagline: page about data analysis, coding, and travelling
-description: Minimal tutorial on making a simple website with GitHub Pages
+tagline: o datové analýze, programování a cestování
+description: Personal blog dedicated to my passions - data analysis, coding and traveling.
 ---
 
-[Github Pages](https://pages.github.com) provide a simple way to make a
-website using
-[Markdown](https://daringfireball.net/projects/markdown/) and
-[git](https://git-scm.com).
+Milí čtenáři, vítejte!
 
-For me, the painful aspects of making a website are
+Před nějakým časem jsem si uvědomil, že soubor informací a znalostí, které
+každodenně využívám při své práci, mohu rozdělit na dvě skupiny:
 
-- Working with html and css
-- Finding a hosting site
-- Transferring stuff to the hosting site
+- znalosti, které mám uložené v poznámkách na mém počítači, nebo v mojí hlavě a
+- informace, které nepotřebuji k práci tak často, což vede ke skutečnosti, že je
+nemám zapsané nikde.
 
-With [GitHub Pages](https://pages.github.com), you just write things in
-[Markdown](https://daringfireball.net/projects/markdown/),
-[GitHub](https://github.com) hosts the site for you, and you just push
-material to your GitHub repository with `git add`, `git commit`, and
-`git push`.
+Myslím si, že nejsem výjimkou, když přiznám, že v mém případě je více mých
+znalostí obsaženo v té druhé z&nbsp;výše popsaných skupin. Tato skutečnost vede
+k tomu, že velkou část svého pracovního života trávím hledáním, či potvrzováním,
+informací, které jsem už jednou hledal a také úspěšně našel.
 
-If you love [git](https://git-scm.com/) and
-[GitHub](https://github.com), you'll love
-[GitHub Pages](https://pages.github.com), too.
+Aby se můj čas při hledání takových informací zkrátil na minimum, rozhodl jsem
+se, že založím tento blog, který bude sloužit spíše jako moje osobní
+[báze znalostí](https://cs.wikipedia.org/wiki/B%C3%A1ze_znalost%C3%AD). Kromě
+svých znalostí bych zde rád sdílel i svoje poznámky z&nbsp;cest, což ve výsledku
+znamená, že v současné době budu na blog přispívat články pokrývajícími jedno
+z&nbsp;následujících tři tématických okruhů:
 
-The sites use [Jekyll](https://jekyllrb.com/), a
-[ruby](https://www.ruby-lang.org/en/) [gem](https://rubygems.org/), to
-convert Markdown files to html, and this part is done
-automatically when you push the materials to the `gh-pages` branch
-of a GitHub repository.
+- [datová analýza](pages/data_analysis_content.html),
+- [programování](pages/programming_content.html),
+- [cestování](pages/traveling_content.html).
 
-The [GitHub](https://pages.github.com) and
-[Jekyll](https://jekyllrb.com) documentation is great, but I thought it
-would be useful to have a minimal tutorial, for those who just want to
-get going immediately with a simple site. To some readers, what GitHub
-has might be simpler and more direct.  But if you just want to create
-a site like the one you're looking at now, read on.
+Pokud najdete na blogu chybu, nebo byste mě rádi kontaktovali s jinými postřehy,
+budu rád, pokud napíšete na&nbsp;následující e-mailovou adresu:
+`bezdekjarda@seznam.cz`
 
-Start by reading the [Overview page](pages/overview.html), which
-explains the basic structure of these sites. Then read
-[how to make an independent website](pages/independent_site.html). Then
-read any of the other things, such as
-[how to test your site locally](pages/local_test.html).
-
-- [Overview](pages/overview.html)
-- [Making an independent website](pages/independent_site.html)
-- [Making a personal site](pages/user_site.html)
-- [Making a site for a project](pages/project_site.html)
-- [Making a jekyll-free site](pages/nojekyll.html)
-- [Testing your site locally](pages/local_test.html)
-- [Resources](pages/resources.html)
-
-If anything here is confusing (or _wrong_!), or if I've missed
-important details, please
-[submit an issue](https://github.com/kbroman/simple_site/issues), or (even
-better) fork [the GitHub repository for this website](https://github.com/kbroman/simple_site),
-make modifications, and submit a pull request.
+<!--
+pro zkrášlení kodu mohu použít následující web: http://hilite.me/
+ - nejlepší nastavení je asi Language: Python, Style: default
+ - po vyrenderování se musí ještě smazat padding z div style (!!!)
+-->
 
 ---
 
-The source for this minimal tutorial is [on github](https://github.com/kbroman/simple_site).
-
-Also see my [tutorials](https://kbroman.org/pages/tutorials) on
-[git/github](https://kbroman.org/github_tutorial),
-[GNU make](https://kbroman.org/minimal_make),
-[knitr](https://kbroman.org/knitr_knutshell),
-[R packages](https://kbroman.org/pkg_primer),
-[data organization](https://kbroman.org/dataorg),
-and [reproducible research](https://kbroman.org/steps2rr).
+Poděkování patří [Karlu Bromanovi](https://kbroman.org/pages/about.html),
+autorovi [simple_site](https://github.com/kbroman/simple_site)
+schématu, které bylo použito pro vytvoření těchto stránek.
