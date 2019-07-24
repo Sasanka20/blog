@@ -23,7 +23,7 @@ Aby se můj čas při hledání takových informací zkrátil na minimum, rozhod
 se, že založím tento blog, který bude sloužit spíše jako moje osobní
 [báze znalostí](https://cs.wikipedia.org/wiki/B%C3%A1ze_znalost%C3%AD). Kromě
 svých znalostí bych zde rád sdílel i svoje poznámky z&nbsp;cest, což ve výsledku
-znamená, že v současné době budu na blog přispívat články pokrývajícími jedno
+znamená, že v současné době budu na blog přispívat články pokrývajícími jeden
 z&nbsp;následujících tři tématických okruhů:
 
 - [datová analýza](pages/data_analysis_content.html),
