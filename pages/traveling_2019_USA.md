@@ -7,6 +7,8 @@ description: Description of trip around USA west coast.
 
 ![Death Valley](images/traveling_2019_USA_image.jpg)
 
+&nbsp;
+
 #### DEN 0
 
 Možná to bude znít zvláštně, ale začal bych letem. Letěli jsme z Vídně do LA se
@@ -46,6 +48,8 @@ Co se týče ubytování, bydlíme ve velice pěkné a klidně čtvrti, kde se n
  je na adrese 4242 Tujunga Avenue, LA . Na Google Streetview má celkem
  pěknou fotku :-)
 
+&nbsp;
+
 #### DEN 1
 
 První den v LA jsme začali stylově - na chodníku slávy. Vyfotili jsme
@@ -68,6 +72,8 @@ kvůli husté dopravě dojeli na místo až za tmy, první z výhledů byl fanta
 ale druhý nebyl vůbec. Abych to vysvětlil, LA se ve tmě nádherně rozvísitilo,
 takže se jednalo o skvělý zážitek. Na druhou stranu, jeden z nejslavnějších
 nápisů světa ve tmě osvětlený nebyl, takže jsme ho ani moc neviděli.
+
+&nbsp;
 
 #### DEN 2
 
@@ -97,6 +103,8 @@ masa vody a já se bál, že nás to zaplaví :-)
 Odpoledne jsme se jeli ještě podívat na Tichý oceán na Venice beach a potom
 jsme už frčeli domů.
 
+&nbsp;
+
 #### DEN 3
 
 Třetí den  jsme posnídali sýrovou pizzu, kterou jsme nesnědli předchozí den
@@ -124,6 +132,8 @@ a v Kalifornii :-) Ta zvířata sice hrozně smrděla, ale byl to opravdu zajím
 zážitek.
 
 Večer jsme se ubytovali v hotelu a šli spát.
+
+&nbsp;
 
 #### DEN 4
 
@@ -161,6 +171,8 @@ se dvěma psy (Misha a Sage) a jedním hadem (je to krajta, ale nevím, jak se
 Po seznámení jsme se šli s Klárou najíst do mexické restaurace v našem
 neighborhoodu a šli jsme spát.
 
+&nbsp;
+
 #### DEN 5
 
 Pátý den jsme se probudili trošku později, nasnídali se a vyrazili do města.
@@ -174,6 +186,8 @@ pokračovali do přístavu. Na oběd jsme si dali typický bagel (houska s dírk
 
 Večer jsme se ještě s Joey dívali na televizi a povídali si a kolem deváté jsme
 si šli lehnout.
+
+&nbsp;
 
 #### DEN 6
 
@@ -222,6 +236,8 @@ bobra :-)
 
 Po návratu do vesničky jsme zašli na pizzu a šli spát.
 
+&nbsp;
+
 #### DEN 8
 
 Jak už jsem říkal, vstávání ve stanu nebylo nejpříjemnější, ale zvládli jsme to.
@@ -249,6 +265,8 @@ jít klidně k ní domů. Uvnitř bylo vše připraveno na náš příjezd - pos
 ručníky a papír s “návodem k použití” (heslo k wi-fi, informace, kde je
 odpadkový koš, kde najdeme čaj, jak se používá sprcha atd.). Protože jsme byli
 unavení po túře, jen jsme se osprchovali a šli spát.
+
+&nbsp;
 
 #### DEN 9
 
@@ -280,6 +298,8 @@ Po průjezdu parkem jsme jeli na hotel, kde jsme se ubytovali a zašli se najís
 Já jsem si dal špagety s&nbsp;masovými koulemi a Klára si dala grilované kuřecí
 kousky v tortile.
 
+&nbsp;
+
 #### DEN 10
 
 Další den jsme spali o něco déle, abychom nabrali síly po náročné cestě. Na
@@ -306,6 +326,8 @@ jsme procházeli přes nějakou divnou čtvrť, kde jsme potkali tolik bezdomovc
 chlapů přeoperovaných na holky a jiných individuí, kolik jsem jich nepotkal
 za pět let studia v Praze. Upřímně musím říct, že jsem byl po návratu na hotel
 rád, že jsme zase zpátky.
+
+&nbsp;
 
 #### DEN 11
 
@@ -337,6 +359,8 @@ Po návratu na hotel jsme zašli ještě do hotelového kasína, kde jsme zkusil
 štěstí v místních automatech. Po asi 20 minutách jsme byli chudší o 10 dolarů,
 takže jsme to zabalili a šli na večeři do McDonald’s :-)
 
+&nbsp;
+
 #### DEN 12
 
 Dvanáctý den jsme se vzbudili hned brzo ráno, odhlásili se z hotelu v Las Vegas
@@ -367,6 +391,8 @@ Z parku jsme vyjeli kolem čtvrté hodiny a vyrazili jsme se na jih, konkrétně
 do Page ve státu Arizona. Jedná se o&nbsp;malé městečko, kam jsme dorazili kolem
 sedmé hodiny, ubytovali se do jednoho domu přes Airbnb a zašli na pizzu do Pizza
 Hutu :-)
+
+&nbsp;
 
 #### DEN 13
 
@@ -437,6 +463,8 @@ jsme tam byli. Byl to vážně zážitek.
 Kolem čtvrté hodiny jsme potom nasedli do auta a vyrazili na čtyřhodinovou cestu
 zpět do Las Vegas, kde jsme se ubytovali, pobalili věci domů a šli si lehnout.
 
+&nbsp;
+
 #### DEN 14
 
 Ráno jsme vstali, vrátili auto do půjčovny a pádili po trase Las Vegas - LA -
@@ -448,7 +476,9 @@ Valley zažijeme písečnou bouři. Přiznám se, že jsem měl mnohdy strach, a
 myslím si, že to stálo za to. Navštívili jsme hromadu nádherných míst a máme
 spoustu zážitků, na které budeme vzpomínat.
 
-### Fotky
+&nbsp;
+
+#### FOTKY
 
 Fotky z USA najdete [zde](https://www.dropbox.com/sh/i46hr93ldf2jm80/AACqzCTyPtt5vP51KODFCOVma?dl=0).
 
