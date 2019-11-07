@@ -5,7 +5,7 @@ tagline: listopad 2019
 description: Description of trip to Barcelona to see a football match between FC Barcelona and Slavia Prague.
 ---
 
-![Nou Camp](images/traveling_2019_Barcelona_image.jpg)
+![Nou Camp](images/traveling_2019_Barcelona_img.jpg)
 
 &nbsp;
 
