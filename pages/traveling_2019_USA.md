@@ -480,7 +480,7 @@ spoustu zážitků, na které budeme vzpomínat.
 
 #### FOTKY
 
-Fotky z USA najdete [zde](https://www.dropbox.com/sh/i46hr93ldf2jm80/AACqzCTyPtt5vP51KODFCOVma?dl=0).
+Fotky z USA najdete [zde](https://photos.app.goo.gl/PgKPYdYnc88GRNwz8).
 
 ---
 

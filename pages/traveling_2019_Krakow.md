@@ -117,7 +117,7 @@ Po obědě jsme nakoupili suvenýry pro rodiny a vyrazili zpět domů.
 
 #### FOTKY
 
-Fotky z Krakova najdete [zde](https://www.dropbox.com/sh/dn8ow32yr074e06/AADcYLQUbOa-X_DYaatSyy5la?dl=0).
+Fotky z Krakova najdete [zde](https://photos.app.goo.gl/gBTGBJZVJyc4cAE58).
 
 ---
 

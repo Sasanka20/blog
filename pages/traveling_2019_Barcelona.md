@@ -137,7 +137,7 @@ vyrazíme na další cestu za kvalitním evropským fotbalem :-)
 
 #### FOTKY
 
-Fotky z Barcelony najdete [zde]().
+Fotky z Barcelony najdete [zde](https://photos.app.goo.gl/n7AR8iHBaUTsw7RN9).
 
 ---
 
