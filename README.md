@@ -4,6 +4,6 @@ Blog is written in Czech and can be found [here](https://sasanka20.github.io/blo
 
 # Development
 - go to the project folder: `cd /Users/JaroslavBezdek/Documents/Web/blog`,
-- build a project: `jekyll build`,
-- run a server: `jekyll serve`,
+- build a project: `bundle exec jekyll build`,
+- run a server: `bundle exec jekyll serve`,
 - enjoy the blog running on the following URL address: http://localhost:4000.
