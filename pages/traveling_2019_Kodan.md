@@ -343,6 +343,12 @@ nepřipadalo v úvahu, např.:
 - Budovy v industriálních částech města, které nejsou ozdobeny vánočními dekoracemi,
 jsou chladné.
 - Dánové jsou chladní.
+- Díky [Revolut](https://cs.wikipedia.org/wiki/Revolut) platební kartě se
+jednalo o naši první bezhotovostní dovolenou. A na základě dobrých zkušeností
+říkám, že nebyla poslední.
+- Tak dobrou kohoutkovou vodu, kterou jsme v Kodani pili, jsem ochutnal snad jen
+v [Řece](https://cs.wikipedia.org/wiki/%C5%98eka_(okres_Fr%C3%BDdek-M%C3%ADstek)).
+Ve srovnání s touto slezskou vízkou ale v Kodani žije 1 205x více obyvatel.
 - Kodaň je opravdu moc pěkné město a život v ní bych si dokázal představit.
 
 &nbsp;
