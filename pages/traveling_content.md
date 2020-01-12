@@ -11,3 +11,7 @@ description: traveling section content page.
 - [Krakov](traveling_2019_Krakow.html)
 - [Barcelona](traveling_2019_Barcelona.html)
 - [Kodaň](traveling_2019_Kodan.html)
+
+### 2020
+
+- [Londýn](traveling_2020_Londyn.html)
