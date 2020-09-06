@@ -452,7 +452,7 @@ kochala výhledem na Alpy a já psal tyto řádky.
 Po příletu do Prahy jsme si zašli na jídlo a potom dvě hodiny čekali na test na
 [COVID-19](https://cs.wikipedia.org/wiki/Covid-19). Jeho pověst nelže - není to
 příjemné, ale dá se to vydržet, protože to netrvá dlouho :-) Mimochodem,
-výsledky testu dorazili hned druhý den a byly **negativní**.
+výsledky testu dorazily hned druhý den a byly **negativní**.
 
 V 16:20 jsme na hlavním nádraží nasedli do žlutého vlaku a jeli domů.
 
