@@ -9,7 +9,7 @@ description: Description of our holiday on Mallorca.
 
 &nbsp;
 
-Po našich minulých cestách jsme vždy jeli na poznávací dovolenou, při které
+Na našich minulých cestách jsme vždy jeli na poznávací dovolenou, při které
 byl každý den nabitý tak, že jsme se po dovolené vrátili domů ještě víc unavení,
 než jak jsme na dovolenou odjížděli a byli tím pádem rádi, že si můžeme jít zase
 odpočinout zpátky do práce. Tento rok jsme si ale řekli, že si dáme od takových
@@ -41,7 +41,7 @@ V den odjezdu začaly ale problémy přibývat. A zase v tom byl ten
 
 V 16 hodin jsme na hlavním nádraží v Brně nastoupili do žlutého vlaku a já si myslel,
 že dovolená začíná. Nicméně úplně nezačínala. Nejdřív jsme si chtěli objednat jídlo.
-Regio Jet na to má mobilní aplikaci, která má na Apple Storu hodnocení kolem dvou
+K tomu v RegioJetu slouží mobilní aplikace, která má na Apple Storu hodnocení kolem dvou
 hvězdiček z pěti, čemuž se vůbec nedivím. Nejdřív mi totiž trvalo věčnost si ji
 nainstalovat a potom mi trvalo celou cestu do Prahy si přes ni něco objednat. Bohužel
 se mi to nepovedlo, takže jsme přijeli do Prahy nenajezení.
@@ -52,7 +52,7 @@ zvedl, ozvala se Antonia, naše recepční, která mi oznámila, že náš hotel
 jsme už měli zaplacený, zavírají vlivem [COVID-19](https://cs.wikipedia.org/wiki/Covid-19).
 Nejdříve jsem se lekl, že v hotelu
 vypukla pandemie, ale potom mě Antonia uklidnila, že pouze nikdo do hotelu nejezdí
-a jim se nevyplatí provozovat celý hotel kvůli dvěma Bezděkům. Naštěstí nám Antonia
+a jim se nevyplatí provozovat celé zařízení kvůli dvěma Bezděkům. Naštěstí nám Antonia
 řekla, že nám vrátí peníze a nabídla nám ubytování v apartmánech stejného řetězce
 pouze 300 metrů od původního hotelu. Takže problém vyřešen.
 
@@ -79,26 +79,27 @@ a jít spát.
 
 V den odletu jsme vstávali už ve 4 hodiny ráno, protože letadlo nám letělo v 6:20.
 
-Po rychlém sbalení věci nás ve 4:40 odvezl taxík na letiště, my bez větších problémů
+Po rychlém sbalení věcí nás ve 4:40 nabral taxík před hotelem a odvezl nás na letiště. My bez větších problémů
 prošli kontrolou, koupili si snídani a nalodili se na palubu letadla. V průběhu letu,
 který trval asi 2,5 hodiny, jsem si snědl krocana se šunkou a sýrem z letiště,
 podřimoval a snažil se nemyslet na přílet na [Mallorcu](https://cs.wikipedia.org/wiki/Mallorca).
 
 Tam nás totiž čekala kontrola dokumentu, který musí mít každý, kdo v období
 koronavirové krize cestuje do Španělska. Jedná se o něco jako čestné prohlášení,
-ve kterém svým podpisem stvrzujeme, že jsme nepřišli do styku s žádnou nakaženou
-osobou a že nemáme příznaky nemoci. Každý by si řekl, že vyplnit jeden formulář
+ve kterém svým podpisem stvrzujete, že jste nepřišli do styku s žádnou nakaženou
+osobou a že nemáte příznaky nemoci. Každý by si řekl, že vyplnit jeden formulář
 bude hračka, ale já jej před odletem vyplňoval za sebe i za Kláru a u Kláry jsem
 si spletl příjmení. Místo *Bezděková* jsem do formuáře napsal Klářino příjmení za svobodna.
 A příjmení byla zrovna položka, která jako jedna z mála nešla po uložení změnit.
 Takže jsem se až na [Mallorcu](https://cs.wikipedia.org/wiki/Mallorca) trošku strachoval,
 aby Klára nemusela zůstat na [Mallorce](https://cs.wikipedia.org/wiki/Mallorca)
-na letišti, nebo nemusela letět zpátky. Naštěstí kontrola probehla přesně tak, jak
+na letišti, nebo nemusela letět zpátky. Naštěstí kontrola proběhla přesně tak, jak
 by se od Španělů dalo čekat - nikdo nám nezměřil teplotu, natož aby kdokoliv
 kontroloval příjmení. Další pohroma zažehnána, jelo se dál.
 
-A to doslova. Na letišti jsme si totiž půjčili auto, konkrétně Huyndai i20, a
-frčeli jsme na hotel, který se nacházel v městečku
+A to doslova. Na letišti jsme si totiž půjčili auto, konkrétně bílý
+[Huyndai i20](https://cs.wikipedia.org/wiki/Hyundai_i20),
+a frčeli jsme na hotel, který se nacházel v městečku
 [Port de Pollenca](https://www.fischer.cz/spanelsko/mallorca/port-de-pollenca)
 na severu ostrova. Cesta trvala asi hodinu, takže jsme na místo dorazili kolem 12. hodiny
 a vybalili si věci. Naše ubytování tvořil apartmán v zařízení jménem
@@ -116,11 +117,11 @@ dohnat spánkový deficit.
 Když jsme se probudili, byl akorát čas večeře. Abychom moc nezmokli, nasedli jsme
 do auta a trošku se přiblížili k místnímu [Burger Kingu](https://www.burgerking.cz/).
 Zbytek jsme došli pěšky. Ten večer jsem si dal hamburger s vejcem a hranolkama.
-Byl první den, takže mi ještě relativně chutnal.
+Byl první den, takže mi jídlo z fast foodu ještě relativně chutnalo.
 
 Po večeři pršet přestalo, takže jsme se alespoň prošli po
-[místní promenádě](images/travelling_promenada_Port_de_Pollenca.jpg) a nakoupili
-jídlo na další dny v obchodě.
+[místní promenádě](images/travelling_promenada_Port_de_Pollenca.jpg) a
+v obchodě nakoupili jídlo na další dny.
 
 &nbsp;
 
@@ -130,13 +131,13 @@ Druhý den ráno nás čekalo na pokoji nepříjemné překvapení. Jídlo, kter
 do lednice, přilákalo místní mravence, takže jsme část naší snídaně museli vyhodit.
 S jídlem jsme obecně na dovolené dost bojovali. Kromě mravenců se nám totiž i
 několikrát stalo, že jsme koupili jídlo, které bylo po otevření obalu plesnivé.
-Naštěstí jsme měli vždycky co jíst, takže přežili :-)
+Naštěstí jsme měli vždycky co jíst, takže jsme přežili :-)
 
 Po zlikvidování mravenců a lehké snídani jsme se vydali na výlet do
 [Palma de Mallorca](https://cs.wikipedia.org/wiki/Palma_de_Mallorca),
 hlavního města ostrova.
 
-Po asi hodinu dlouhé cestě jsme nechali auto zaparkované v podzemních garážích
+Auto jsme nechali zaparkované v podzemních garážích
 u přístavu a vydali se na prohlídku města. První zastávkou byla majestátní
 [katedrála Panny Marie](https://cs.wikipedia.org/wiki/Katedr%C3%A1la_Panny_Marie_(Palma_de_Mallorca)),
 která pochází z roku 1230 a je jednou z největších gotických katedrál v Evropě.
@@ -152,7 +153,7 @@ a k budově bývalého hotelu [Gran Hotel](https://en.wikipedia.org/wiki/Gran_Ho
 Po obědě v [McDonald's](https://www.mcdonalds.cz/) jsme se chtěli jít podívat ještě
 do budovy velké tržnice [Mercat de l’Olivar](https://www.mercatolivar.com/en/home/).
 Ta ale byla kvůli [COVID-19](https://cs.wikipedia.org/wiki/Covid-19) zavřená.
-Ostatně mnoho podniků bylo v hlavním městě zavřeným - některé kvůli
+Ostatně mnoho podniků bylo v hlavním městě zavřených - některé kvůli
 [COVID-19](https://cs.wikipedia.org/wiki/Covid-19), jiné kvůli tomu, že byla neděle.
 Nám to ale nevadilo. Město sice bylo prázdné, ale na druhou stranu se člověk nikde
 s nikým nemačkal a na některých místech to dokonce vypadalo, jako by je měl jen
@@ -222,31 +223,32 @@ Nás ale [Deià](https://cs.wikipedia.org/wiki/Dei%C3%A0) zase tolik neoslovila,
 a tak jsme po procházce úzkými uličkami a nalezení domu a hrobu
 [Roberta Gravese](https://cs.wikipedia.org/wiki/Robert_Graves) zamířili do jedné
 z místních restaurací na oběd a poté jsme pokračovali do poslední zastávky našeho
-výletu, kterou bylo město [Sollér](https://en.wikipedia.org/wiki/S%C3%B3ller).
+výletu, kterou tvořilo město [Sollér](https://en.wikipedia.org/wiki/S%C3%B3ller).
 
 To se nachází na úpatí hor, takže cesta z horské vesničky
 [Deià](https://cs.wikipedia.org/wiki/Dei%C3%A0) dolů do
 [Solléru](https://en.wikipedia.org/wiki/S%C3%B3ller) nebyla pro žádné poseroutky.
 A protože já poseroutka jsem, musím přiznat, že adrenalin v těle mi v úzkých
-serpentinách docela stoupal dost rapidně. Naštěstí jsme ale v pořádku dojeli a nic
+serpentinách stoupal docela dost rapidně. Naštěstí jsme ale v pořádku dojeli a nic
 se nestalo. V [Solléru](https://en.wikipedia.org/wiki/S%C3%B3ller) jsme si zašli
 na hlavní náměstí Plaça Constitució, kde se nachází modernistický kostel Sant Bartomeu
 a budova banky Santander, jejíž exteriér je dílem
 [Gaudího](https://cs.wikipedia.org/wiki/Antoni_Gaud%C3%AD) žáků. Kromě toho
 náměstím projíždí pro [Sollér](https://en.wikipedia.org/wiki/S%C3%B3ller)
-typická oranžová tramvaj a nachází se něm spousta restaurací a kaváren. V jedné
+typická oranžová tramvaj a nachází se na něm spousta restaurací a kaváren. V jedné
 z nich jsme si tedy sedli, dali kávu a dočerpali síly.
 
 Když jsme se kolem 18. hodiny vrátili zpět do našeho výchozího bodu v
 [Port de Pollenca](https://www.fischer.cz/spanelsko/mallorca/port-de-pollenca),
 stejně jako včera jsme se převlékli do plavek a šli se svlažit do moře.
 Potom jsme zašli na večeři do Antonií doporučené restaurace
-[Brisa Marina](https://www.enjoymallorca.com/travel-directory/brisa-marina/),
-kde jsme ochutnali další jídla mallorcké kuchyně. Já vyzkoušel dušené vepřové maso
-na jablkách a Klára ochutnala místní cibulačku a [tumbet](https://en.wikipedia.org/wiki/Tombet),
-což je zeleninový pokrm, který nám připomínal řeckou [musaku](https://cs.wikipedia.org/wiki/Musaka).
-Také jsme jej překřtili na *trumpet*. Po hlavním chodu následoval dezert v podobě
-výborného [mallorckého pudinku](https://en.wikipedia.org/wiki/Cr%C3%A8me_caramel).
+[Brisa Marina](https://www.enjoymallorca.com/travel-directory/brisa-marina/).
+Tam jsme ochutnali další jídla mallorcké kuchyně. Já vyzkoušel dušené vepřové maso
+na jablkách a Klára ochutnala místní cibulačku a [tumbet](https://en.wikipedia.org/wiki/Tombet).
+[Tumbet](https://en.wikipedia.org/wiki/Tombet) je zeleninový pokrm připomínající
+řeckou [musaku](https://cs.wikipedia.org/wiki/Musaka), který jsme překřtili na
+*trumpet*. Po hlavním chodu následoval ještě dezert v podobě výborného
+[mallorckého pudinku](https://en.wikipedia.org/wiki/Cr%C3%A8me_caramel).
 
 &nbsp;
 
@@ -268,10 +270,10 @@ Tento den měl být kromě výhledů hlavně o plážích. Tou první, kam jsme 
 [Platja de Formentor](http://www.e-mallorca.cz/index.php/nejkrasnejsi-plaze/platja-de-formentor).
 Jedná se o pláž, která se nachází v klidné zátoce a je obklopena borovicovými
 háji. Podle průvodců je to jedna z nejhezčích pláží na ostrově. I nám se líbila.
-Pláž byla čistá, voda průzračně čistá a přístup do vody pozvolný. Navíc jsme na pláži
-nebylo moc lidí, což hlavně nyní považuji za obrovskou výhodu.
+Pláž byla čistá, voda průzračně čistá a přístup do vody pozvolný. Navíc s námi na pláži
+nerelaxovalo moc lidí, což hlavně nyní považuji za obrovskou výhodu.
 
-Jedinou nevýhodou tedy zůstává skutečnost, že mě při plavání v místních vodách
+Jedinou nepříjemností tedy zůstává skutečnost, že mě při plavání v místních vodách
 kousla nějaká ryba do nohy. Bylo to docela vtipné. Kolem mě totiž plavala jedna
 větší ryba s dalšími třemi menšími rybami, asi mláďaty, a mě přišlo super je tam
 pozorovat. Po chvíli se mě Klára zeptala, jestli si myslím, že nás můžou kousnout.
@@ -327,8 +329,8 @@ svého nálezu. Nakonec tu tedy byla pro sošku postavena kaple, kde mohla být 
 uložena.
 
 My jsme si hned po příjezdu zašli na rychlý oběd do jedné z restaurací a poté
-se vydali na prohlídku kláštera, kterou zahrnovala bazilika s La Morenetou,
-muzeum a botanická zahrada.
+se vydali na prohlídku kláštera, která zahrnovala baziliku s La Morenetou,
+muzeum a botanickou zahradu.
 
 Po prohlídce jsme nasedli do auta a jeli - jak jinak - na pláž. Jednalo se o pláž
 [Sa Calobra](https://www.seemallorca.com/beaches/sa-calobra-beach-661010), ke které
@@ -336,16 +338,16 @@ vede pravděpodobně
 [jedna z nejhezčích cest na ostrově](https://www.freshjam.cz/25206-nejlepsi-silnice-sveta-16-dil-sa-calobra-mallorca).
 Jedná se o 12 km dlouhý úsek, který je protkán serpentinami strmě klesajícími
 k pobřeží. Cesta sama o sobě vyžadovala za volantem dost soustředění, ale i tak
-se jednalo o zážitek. Výhledy, které totiž nabízí, byly opravdu nádherné.
+se jednalo o zážitek. Výhledy, které totiž cesta nabízí, byly opravdu nádherné.
 
-Samotná pláž je podle mého názoru velice pěkná. Jedná se o úzký pruh pláže
-zasazené mezi dvě vysoké skály. Aby se člověk na pláž dostal, musí proto od auta ještě
-projít dvěma tunely pro pěší, které jsou vytesány do skály. Tím, že se jedná o
-kamenitou pláž, je voda průzračně čistá. Na můj vkus byla ale docela studená a
-hluboká. Takže mým dovolenkovým favoritem bych ji nenazval.
+Samotná pláž je podle mého názoru velice pěkná. Jedná se v podstatě o úzkou soutěsku
+mezi dvěma vysokými skálami. Aby se člověk na pláž dostal, musí od auta ještě
+projít dvěma tunely pro pěší, které jsou vytesány do jedné ze skal. Díky tomu,
+že se jedná o kamenitou pláž, je voda průzračně čistá. Na můj vkus byla ale
+docela studená a hluboká. Takže mým dovolenkovým favoritem bych ji nenazval.
 Navíc na pláži [Sa Calobra](https://www.seemallorca.com/beaches/sa-calobra-beach-661010)
-tentokrát kousla nějaká ryba Kláru. Myslím si, že to byla ten stejný druh,
-který kousl včera mě.
+tentokrát kousla nějaká ryba Kláru. Myslím si, že to byl ten stejný druh,
+který kousl včera mě na [Platja de Formentor](http://www.e-mallorca.cz/index.php/nejkrasnejsi-plaze/platja-de-formentor).
 
 Když nás plavání v moři přestalo bavit, osušili jsme se a vydali se na hodinovou
 cestu zpět do [Port de Pollenca](https://www.fischer.cz/spanelsko/mallorca/port-de-pollenca),
@@ -362,15 +364,15 @@ který je jedním z nejvýznamnějších přírodních úkazů na ostrově.
 
 A tak jsme po snídani sedli do auta a vydali se na cestu na druhý konec ostrova.
 Ten den nás navigace vedla nějakými polními cestami a ještě kilometr před příjezdem
-do cíle jsme u cest neviděli žádné ukazatele. V tu chvíli jsem z cesty neměl úplně
+do cíle jsme u cest neviděli žádné ukazatele na jeskyně. V tu chvíli jsem z cesty neměl úplně
 nejlepší pocit a dost jsem se bál, že nestihneme prohlídku jeskyní v 11 hodin,
 na kterou jsme měli koupené lístky. Naštěstí nás navigace nezklamala, a i když to bylo
 malinko se stresem, nakonec nás dovedla tam, kam jsme chtěli.
 
 Prohlídka jeskyní nezahrnovala výklad žádného průvodce. Co ale zahrnovala, byl
 koncert vážné hudby a projížďka loďkou. Přibližně v půlce cca 1,5 km dlouhého
-pěšího okruhu jsme se dostali do jedné velké jeskyní místnosti, kde byla spousta
-sedaček, na které nás zaměstnanci jeskyně usadili. Před námi se nacházelo jeskyní jezero.
+pěšího okruhu jsme se dostali do velké jeskynní místnosti, kde byla spousta
+sedaček, na které nás zaměstnanci jeskyně usadili. Před námi se nacházelo jeskynní jezero.
 Na něm se po chvíli objevily tři lodě. Na jedné z nich sedělo hudební uskupení ve složení
 dvou houslí, jedné basy a piana. Další dvě loďky plnily pouze roli osvětlovačů.
 Následovala krátká projížďka těchto tří lodí po jezírku, při kterém hudební
@@ -379,13 +381,13 @@ možnost nechat se svézt v loďkách po jezírku. My jsme si řekli, že když 
 za to zaplatili, tak pojedeme. Projížďka sice byla opravdu velice krátká, ale svezli jsme se.
 Potom jsme dokončili okruh prohlídky a v místním občerstvení si koupili oběd.
 
-Po jídle jsme nasedli do auta a pokračovali na další pláž z našeho seznamu
+Po jídle jsme nasedli do auta a pokračovali na další pláž z našeho seznamu - tentokrát už na poslední -
 [Calo des Moro](https://www.seemallorca.com/beaches/es-calo-des-moro-south-mallorca-688454).
-Tentokrát už na poslední. Jednalo se o malou písečnou pláž ukrytou v zátoce, která
+Jednalo se o malou písečnou pláž ukrytou v zátoce, která
 nabízela mělkou tyrkysovou vodu. Přestože říkám písečnou, na souši moc písku nebylo,
 takže jsme museli nechat věci mezi velkými kameny, ke kterým nebyl úplně nejlepší
 přístup. Pláž navíc byla dost malá, takže se na ní tísnilo hodně lidí, což kráse
-samotného místa moc nepřidávalo. Za mě se ale i tak pravděpodobně jednalo o jedno
+samotného místa moc nepřidávalo. Za mě se ale i tak jednalo o jedno
 z nejhezčích míst, které jsme na dovolené navštívili. Voda totiž byla teplá, čistá
 a průzračně modrá jako na obrázku, takže jsem si relaxování ve vodě vážně užíval.
 
@@ -393,9 +395,9 @@ Po příjezdu na hotel jsme se pouze převlékli a šli na večeři do restaurac
 [Celler La Parra](https://cellerlaparra.com/). Podle Antonie se mělo jednat
 o restauraci, kde můžeme ochutnat typické mallorcké jídlo, a to jsme s Klárou
 oba chtěli. Já si objednal jehněčí ramínko na mallorcký způsob s dušenou
-zeleninou a hranolkama, což bylo asi to nejlepší, které jsem na dovolené měl, a
-Klára si dala znovu [tumbet](https://en.wikipedia.org/wiki/Tombet), který jí
-naposledy chutnal. Tentokrát se však podával se smaženými vajíčky.
+zeleninou a hranolkama, což bylo asi to nejlepší jídlo, které jsem na dovolené měl,
+a Klára si dala znovu [tumbet](https://en.wikipedia.org/wiki/Tombet), tentokrát
+však se smaženými vajíčky.
 
 Po výborné večeři jsme se odkutáleli na hotel a šli si po náročném dni lehnout.
 
@@ -406,17 +408,17 @@ Po výborné večeři jsme se odkutáleli na hotel a šli si po náročném dni 
 Sedmý den byl naším posledním celým dnem na ostrově, a tak jsme si řekli, že si
 ho uděláme trošku volnější a budeme odpočívat.
 
-Proto jsme pořádně vyspali a po snídani se vydali do 10 km vzdáleného ranče
+Proto jsme se pořádně vyspali a po snídani se vydali do 10 km vzdáleného ranče
 [Ranxo Ses Roques](https://www.ranxosesroques.com/en/), kde jsme si zaplatili
 hodinovou vyjížďku na koních po okolí. Já jsem, jakožto začátečník, jel na klisně
 jménem Noidoisi, což v překladu znamená "Ne i ano". Klára, jakožto pokročilejší jezdec,
-jela na hřebci jménem Canela, což je v češtině "Skořice".
+jela na klisně jménem Canela, což je v češtině "Skořice".
 
 Společně s námi jeli na projížďku ještě tři zaměstnanci ranče a dva návštěvníci.
-Já jsem, společně s dalšími amatéry, se svým koněm pouze šel, ale ti, kteří byli
+Já jsem společně s dalšími amatéry se svým koněm pouze šel, ale ti, kteří byli
 pokročilejší, měli do projížďky zahrnuty i úseky, kdy se s koněm klusalo. Cesta
 vedla ne moc pěknou krajinou v okolí silnice a prašných cest, ale i přesto to byl
-pěkný zážitek a já jsem rád, že jsme na projížďku šli.
+pěkný zážitek a já jsem rád, že jsme na projížďku vyrazili.
 
 Po návratu na hotel jsme se převlékli a šli na oběd do restaurace
 [Swing](https://www.swingrestaurante.com/), kde jsme si dali s Klárou napůl
@@ -426,13 +428,13 @@ Po obědě jsme se vrátili na hotel a šli si lehnout. Spali jsme dost dlouho,
 snad až do pěti hodin. Potom jsme se ale převlékli a šli poprvé (a naposledy)
 k hotelovému bazénu. Klára odpočívala na lehátku a já si šel zaplavat.
 
-Potom jsme se převlékli a večer jsme vyrazili na večeře do města. Tentokrát do
+Jak bylo naším zvykem, na večeři jsme vyrazili do města. Tentokrát do
 vegetariánské restaurace [Bellaverde](https://restaurantbellaverde.wixsite.com/bellaverde),
-která byla doporučovaná v našem kapesním průvodci. Já si boloňské špagety a
+která byla doporučovaná v našem kapesním průvodci. Já si objednal boloňské špagety
 a vynikající banánový zákusek [banoffee](https://en.wikipedia.org/wiki/Banoffee_pie),
-Klára si objednal hamburger a čokoládový muffin se šlehačkou. Oběma nám moc chutnalo,
-ale dost jsme se přejedli, což nebylo úplně na místě, když jsem si uvědomil, že se
-po návratu na pokoj musíme ještě sbalit před cestou zpět do Česka.
+Klára si dala hamburger a čokoládový muffin se šlehačkou. Oběma nám moc chutnalo,
+ale dost jsme se přejedli, což nebylo úplně na místě. Po návratu na pokoj jsme se
+totiž museli ještě balit na cestu zpět domů.
 
 &nbsp;
 
@@ -447,7 +449,7 @@ letiště v pořádku, vrátili auto a šli na zavazadlovou kontrolu.
 
 Protože jsme byli na letišti brzo, zašli jsme na snídani a potom čekali na letadlo,
 které nám letělo v 9:50 místního času. Let probíhal úplně v pohodě. Klára se
-kochala výhledem na Alpy a já psal tyto řádky.
+kochala výhledem na [Alpy](https://cs.wikipedia.org/wiki/Alpy) a já psal tyto řádky.
 
 Po příletu do Prahy jsme si zašli na jídlo a potom dvě hodiny čekali na test na
 [COVID-19](https://cs.wikipedia.org/wiki/Covid-19). Jeho pověst nelže - není to
