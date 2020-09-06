@@ -15,3 +15,4 @@ description: traveling section content page.
 ### 2020
 
 - [Londýn](traveling_2020_Londyn.html)
+- [Mallorca](traveling_2020_Mallorca.html)
