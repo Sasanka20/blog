@@ -16,3 +16,7 @@ description: traveling section content page.
 
 - [Londýn](traveling_2020_Londyn.html)
 - [Mallorca](traveling_2020_Mallorca.html)
+
+### 2021
+
+- [Vídeň](traveling_2020_Viden.html)
