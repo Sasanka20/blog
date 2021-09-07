@@ -15,15 +15,17 @@ na cesty kolem světa, uvědomili jsme si, že bychom nejdříve mohli vyzkouše
 menšího, při čemž zjistíme, zda nás to spolu baví a zda se na takovém "double
 date" vzájemně nepozabíjíme.
 
-A tak jsme vymysleli jednodenní výlet do Vídně. Nejdříve jsme ho měli
+A tak jsme vymysleli jednodenní výlet do
+[Vídně](https://cs.wikipedia.org/wiki/V%C3%ADde%C5%88). Nejdříve jsme ho měli
 naplánovaný na polovinu května. Ale v daném termínu mělo být špatné počasí, takže
 jsme nakonec náš premiérový trip přesunuli na začátek září.
 
 Osobně jsem nechtěl nechat nic náhodě, takže jsem koupil jízdenky, připravil
-program a koupil průvodce. Ani holky nenechaly nic náhodě. Anička vytipovala
-několik podniků, kam bychom mohli zajít na oběd, nebo na kávu, a Marťa koupila
+program a koupil průvodce. Ani holky nezůstaly nepřipravené. Anička vytipovala
+několik podniků, kam bychom mohli zajít na oběd, nebo na kávu. A Marťa koupila
 pro všechny členy svého tandemu cestovní pojištění. Není se co divit - přece jen
-Vídeň není Hrádek.
+[Vídeň](https://cs.wikipedia.org/wiki/V%C3%ADde%C5%88) není
+[Hrádek](https://cs.wikipedia.org/wiki/Hr%C3%A1dek_(okres_Fr%C3%BDdek-M%C3%ADstek)).
 
 &nbsp;
 
@@ -73,6 +75,11 @@ Tam jsme měli čas tak akorát na to, abychom si koupili
 večeři do vlaku (krocan se šunkou a vajíčkem) a zašli si na záchod.
 
 V 18:39 jsme vyjeli vlakem do Brna. Domů jsme dorazili kolem 20:30.
+
+Sečteno podtrženo, myslím si, že trip se moc vydařil. A pokud bude od ostatních
+členů zájezdu zájem, dalším levelem by mohl být prodloužený víkend v některém
+z jiných evropských měst, nebo cyklovýlet podél
+[Dunaje](https://cs.wikipedia.org/wiki/Dunaj).
 
 &nbsp;
 
