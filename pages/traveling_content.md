@@ -20,3 +20,4 @@ description: traveling section content page.
 ### 2021
 
 - [Vídeň](traveling_2021_Viden.html)
+- [Záhřeb](traveling_2021_Zahreb.html)
