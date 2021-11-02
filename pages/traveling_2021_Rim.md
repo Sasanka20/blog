@@ -185,7 +185,7 @@ Po obědě jsme pokračovali k dalším dvěma kostelům, které byly ten den v 
 k Santa Maria Maggiore a kostelu San Pietro in Vincoli. Druhý jmenovaný byl zavřený,
 takže jsme se dovnitř nedostali.
 
-Po krátké zastávce na kávu a zákusek jsme seběhli od kostela San Pietro in Vincoli
+Po krátké zastávce na kávu a zákusek jsme od kostela San Pietro in Vincoli
 seběhli k Foru Romanu a navštívili ten den čtvrtý kostel, jehož jméno neznám.
 Do areálu Fora jsme se sice nedostali, ale zase tolik nás to nemrzelo, protože
 jsme si ho obešli ze všech stran, takže myslím, že vše důležité jsme viděli.
@@ -249,7 +249,7 @@ zmrzlin v mém životě.
 Procházku centrem jsme zakončili kolem 17:30 na hotelu, kde jsme nabrali trošku
 sil před dlouhým večerem a potom zašli na večeři. Na jídlo jsme se zastavili v restauraci
 La Soffitta kousek od hotelu. Já jsem si objednal těstoviny carbonara, Klára si
-dala gnocchi. Těstoviny carbonara jsem snad ještě v restauraci nikdy neměl, takže
+dala gnocchi. Těstoviny carbonara jsem snad ještě v restauraci neměl, takže
 je nemůžu porovnat s jinými podniky. Musím ale uznat, že byly o dost lepší než
 ty, které dělám doma.
 
@@ -300,7 +300,7 @@ se zvedli, začali pískat a nadávat. Najednou to byl celý stadion proti němu
 A od vstřeleného gólu na něj fanoušci pískali při každém dotyku s míčem. Ibrahimovic
 si za svoje nesportovní chování vysloužil žlutou kartu.
 
-Jinak byl ale při chuti. Po poločase, když domácí tlačili a snažili se vyrovnat,
+A to nebylo z jeho strany vše. Po poločase, když domácí tlačili a snažili se vyrovnat,
 přišel break, při kterém Ibrahimovic dobíhal míč ve vápně a byl sestřelen domácím
 obráncem. Rozhodčí hned nařídil penaltu. Rozhodnutí si ještě ověřil u videa, ale
 svůj verdikt nezměnil. Franck Kessie s přehledem pokutový kop proměnil a muž
