@@ -22,3 +22,7 @@ description: traveling section content page.
 - [Vídeň](traveling_2021_Viden.html)
 - [Záhřeb](traveling_2021_Zahreb.html)
 - [Řím](traveling_2021_Rim.html)
+
+### 2022
+
+- [Madrid](traveling_2022_Madrid.html)

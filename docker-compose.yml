@@ -1,0 +1,18 @@
+version: '3.3'
+
+services:
+
+    blog_web:
+        container_name: blog_web
+        image: blog-web:latest
+        volumes:
+          - './:/usr/src/app'
+        ports:
+          - "8888:8888"
+          - "4000:4000"
+        stdin_open: true # docker run -i
+        tty: true        # docker run -t
+
+
+# build docker image: docker build -t blog-web:latest .
+# run docker container: docker-compose up --build
