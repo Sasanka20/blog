@@ -412,7 +412,7 @@ vyzvednout Pedro Emanuel v
 černá [Toyota Corolla](https://en.wikipedia.org/wiki/Toyota_Corolla), já otevřel dveře
 a řidič mi položil stručnou otázku: "Jorge?" V tu chvíli jsem pochopil, že se
 snažíme dostat do špatného vozu. Na malém náměstíčku jsem proto začal hledat
-další vůz stejné značky. Asi 10 metrů od nás stál vůz se správnou SPZkou a v něm
+další vůz stejné značky. Asi 10 metrů od nás stálo auto se správnou SPZkou a v něm
 na nás čekal malý, slušně oblečený řidič, který nemluvil anglicky. Docela rychle
 jsme se ale pochopili, když se ptal, s jakou leteckou společností letíme, aby
 věděl, na který terminál budeme chtít zavézt. Pedro Emanuel řídil
@@ -434,9 +434,10 @@ kterém jsem se věňoval tomuto blogu.
 Ve [Vídni](https://cs.wikipedia.org/wiki/V%C3%ADde%C5%88) jsme ani nemuseli moc
 dlouho čekat na vlak, protože nám spoje hezky navazovali na sebe. Na
 [hlavním nádraží](https://cs.wikipedia.org/wiki/Wien_Hauptbahnhof) jsem si dal
-s Bertem oběd. Ve fast foodové restauraci s příhodným názvem Schnitzel Wald jsme
+s Bertem oběd. Ve fast foodové restauraci s příhodným názvem
+[Wienerwald](https://en.wikipedia.org/wiki/Wienerwald_(restaurant)) jsme
 si koupili smažený kuřecí řízek s hranolky a bramborovým salátem. Kuba neměl
-hlad, takže si šel mezitím nakuupit do [Carrefouru](https://cs.wikipedia.org/wiki/Carrefour).
+hlad, takže si šel mezitím nakuupit do [Intersparu](https://cs.wikipedia.org/wiki/SPAR).
 
 Do [Brna](https://cs.wikipedia.org/wiki/Brno) jsme dorazili kolem 16. hodiny, se
 skvělými zážitky a hlavami plnými plánů na další výlet za sportem. Já osobně
