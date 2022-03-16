@@ -139,7 +139,7 @@ podařilo usnout už kolem osmé hodiny večer.
 Ráno jsme vstali vyspaní do růžova a vyrazili na snídani. V hotelové jídelně na nás čekal pravý
 [švédský stůl](https://cs.wikipedia.org/wiki/%C5%A0v%C3%A9dsk%C3%BD_st%C5%AFl).
 Přemýšlím, zda bych před sousloví "švédský stůl" neměl napsat ještě jednou slovo
-"švědský", aby byl jasný ten vtip (?) Nevadí. Vraťme se ke snídani!
+"švédský", aby byl jasný ten vtip (?) Nevadí. Vraťme se ke snídani!
 Asi nikdy jsem nezažil tak bohatý výběr jako právě tady. Člověk si mohl vybrat
 jídla sladká, slaná, masná, vegetariánská, nebo třeba
 [bezlepková](https://cs.wikipedia.org/wiki/Bezlepkov%C3%A1_dieta). V jiných
@@ -153,7 +153,7 @@ nebo [vejce benny](https://cs.wikipedia.org/wiki/Vejce_Benedikt).
 
 Já to první den hrozně přepálil, takže jsem si dal smažená vajíčka, párečky,
 brambory, dušená rajčata, čerstvou papriku a bagetku. Jako dezert jsem zvolil
-šáteček s vanilkovým pudinkem, ke kterému jsem si ještě uvařil capuccino v kávovaru.
+šáteček s vanilkovým pudinkem, ke kterému jsem si ještě uvařil cappuccino v kávovaru.
 Nebudu nikomu nic nalhávat - bylo mi těžko. Když jsme ale vyšli ven z
 [hotelu](https://booking.com/hotel/se/radisson-blu-waterfront.cs.html), byl
 jsem rád, že jsem se pořádně najedl. Venku totiž bylo pod mrakem a foukal studený
@@ -167,7 +167,7 @@ Královská rodina v něm už sice nebydlí, ale stále se v něm nachází pros
 probíhají mezinárodní návštěvy. Na cedulce v pokoji pro hosty jsme našli jména
 i jednoho českého páru, konkrétně Václava a Dagmar Havlových, kteří podle informací
 přijeli do [Stockholmu](https://cs.wikipedia.org/wiki/Stockholm) na začátku 90. letech
-minulého století. Po prohlíce [paláce](https://cs.wikipedia.org/wiki/Stockholmsk%C3%BD_pal%C3%A1c)
+minulého století. Po prohlídce [paláce](https://cs.wikipedia.org/wiki/Stockholmsk%C3%BD_pal%C3%A1c)
 jsme se šli ještě podívat do pokladnice a
 [muzea Tre Kronor](https://www.kungligaslotten.se/english/royal-palaces-and-sites/the-royal-palace/museum-three-crowns.html).
 To není věnované švédské hokejové reprezentaci, jak by si mohli někteří myslet,
@@ -178,7 +178,7 @@ Na oběd jsme zamířili do [Taco Bar](https://tacobar.se/), kde jsme si dal que
 se zeleninou a nachos. Klára si objednala habaňero tacos. Po obědě jsme se ještě
 zastavili v jedné z blízkých kaváren na [fika](https://cs.wikipedia.org/wiki/Fika),
 což je slovo označující na přestávku na kávu. My jsme si dali nejen kávu ale i
-škořicovou rolku.
+skořicovou rolku.
 
 Když jsme zase nabrali síly, vydali jsme se do
 [muzea ručně malovaných dřevěných koníků](http://www.woodenhorsemuseumsweden.se/index.html), které
@@ -261,7 +261,7 @@ Nutno dodat, že o dost horší.
 
 Po kávě a zákusku jsme seběhli zpět na ostrov
 [Stadsholmen](https://cs.wikipedia.org/wiki/Stadsholmen) a nechali se lodní MHD
-převézt na [ostrov Djurgarden](https://en.wikipedia.org/wiki/Djurg%C3%A5rden).
+převést na [ostrov Djurgarden](https://en.wikipedia.org/wiki/Djurg%C3%A5rden).
 Jedná se o jeden z větších stockholmských ostrovů,
 na kterém se nachází národní městský park stejného jména a spousta muzeí. My jsme
 se rozhodli navštívit pouze jedno z nich, konkrétně
@@ -273,7 +273,7 @@ obrovský dům, kterému se dnes říká muzeum. Ač je to ve
 [Vyškově](https://cs.wikipedia.org/wiki/Vy%C5%A1kov) hodně nepopulární
 názor, já musím říct, že se mi prohlídka hodně líbila. Nejenže je
 [loď](https://cs.wikipedia.org/wiki/Vasa) obrovská, ale
-hlavně je na ní vidět, že její stavba musela dát hrozně moc práce. Po celé svojí
+hlavně je na ní vidět, že její stavba musela dát hrozně moc práce. Po celé své
 délce je totiž zdobená různými ornamenty a dřevěnými sochami, které byly původně
 ještě natřené pestrými barvami. Barvy sice smyla voda, ale loď připomínající
 Černou perlu, na které se plavil
@@ -322,7 +322,8 @@ Ani nevím, jak bych stanici popsal. Na stěnách člověk mohl najít snad vše
 barvy světa, v podlaze byl zapuštěný nějaký neidentifikovatelný barel, vedle
 nástupišť bylo možno nahlédnout do prostoru, který připomínal naleziště zbytků
 antických paláců, a kdyby toho bylo málo, uprostřed zastávky mezi nástupišti stála
-socha, která vypadala jako Radegast. Bylo to prostě divné.
+socha, která vypadala jako [Radegast](https://www.pustevny.cz/radegast/).
+Bylo to prostě divné.
 
 Z metra jsme se vydali na ostrov [Skeppsholmen](https://cs.wikipedia.org/wiki/Skeppsholmen).
 Ten je zajímavý především tím, že se na něm nachází několik muzeí a nádherná
@@ -347,7 +348,7 @@ umělci přemýšleli. Já osobně jsem byl hrozně rád, že v rámci expozice 
 vidět obrazy od [Salvadora Dalího](https://cs.wikipedia.org/wiki/Salvador_Dal%C3%AD)
 a [Andyho Warhola](https://cs.wikipedia.org/wiki/Andy_Warhol).
 
-Po prohlídce obou výstav jsme se zastavili v muzeijní jídelně, kde jsme si dali
+Po prohlídce obou výstav jsme se zastavili v muzejní jídelně, kde jsme si dali
 oběd. Podávala se fazolová polévka. Na druhé si Klára objednala zeleninové curry
 s rýží, já jsem se rozhodl vyzkoušet jídlo pojmenované jako "švédská klasika".
 Nakonec se jednalo o světlý toast opečený na másle s krevetovým salátem. Tento
@@ -367,9 +368,9 @@ Jedná se totiž o historický dům v centru [Stockholmu](https://cs.wikipedia.o
 který dřívě patřil hraběti a hraběnce von Hallwyl, kteří jej potom věnovali státu.
 Dům je zajímavý především tím, že měl na svoji dobu (konec 19. století) velice
 moderní a nadčasové vybavení, např. topení, splachovací záchod, koupelnu se
-sprchou a telefon. A je potřeba dodat, že to tam není žádnej šunt. V koupelně
+sprchou a telefon. A je třeba dodat, že to tam není žádnej šunt. V koupelně
 nejsou obklady z [Bauhausu](https://cs.wikipedia.org/wiki/Bauhaus_(obchodn%C3%AD_%C5%99et%C4%9Bzec)),
-ale z mramoru a záchod je celý obložený dřevem, takže, předpokldám, nestudí.
+ale z mramoru a záchod je celý obložený dřevem, takže, předpokládám, nestudí.
 Jen co se týče té komunikace přes telefon, tam si myslím, že jsme v dnešní době už dál.
 
 Po prohlídce domu pana Walthera a jeho ženy Wilhelminy von Hallwyl jsme šli do šatny
@@ -380,14 +381,14 @@ sportovní výsledků na [Livesportu](https://cs.wikipedia.org/wiki/Livesport).
 Po necelé minutce k nám přišel
 postarší zaměstnanec muzea a zeptal se nás, zda bychom nevyplnili dotazník
 na jeho tabletu. Klára šla na řadu první. Když se v dotazníku vyplnily
-informace o věku, pohlaví a především národnosti, nám aplikace oznímila, že
+informace o věku, pohlaví a především národnosti, nám aplikace oznámila, že
 další otázky jsou relevantní pouze pro Švédy. Po pár vteřinách tedy bylo hotovo.
 S pánem jsme se ale dali do nezávazného
 [small talku](https://slovnik-cizich-slov.abz.cz/web.php/slovo/small-talk-angl).
 Ptal se nás, odkud jsme a kdy letíme domů. Všechno vypadalo blankytně.
 Potom se ale Klára ze zdvořilosti zeptala,
 zda by nám pán mohl doporučit nějaká další muzea. A to neměla dělat! Pánovi se
-rozzářily oči a s nadšením prohlásil, že nám dá velice rád několik typů.
+rozzářily oči a s nadšením prohlásil, že nám dá velice rád několik tipů.
 Nejdříve ale potřeboval mapu, na které by nám ukázal, kde se jednotlivá místa
 nacházejí. Tu ale neměl u sebe, takže nám řekl, ať s ním jdeme přes celé muzeum
 do obchodu s upomínkovými předměty, kde určitě nějaká bude. Po krátkém rozhovoru
@@ -404,7 +405,7 @@ a po nějaké době se omluvil s tím, že už musí jít. Byl to velice milý s
 Jak jsem zmínil výše, při návratu do šatny se celá místnost naplnila ostatními
 návštěvníky, kteří na malém prostoru museli slyšet celý náš rozhovor. Kousek vedle
 nás seděla i maminka se dvěma malými dětmi, chlapečkem a holčičkou. Všichni tři byli
-blonďatí, jak kdyby pocházeli ze Švédka. Po tom, co zaměstnanec muzea odešel, se
+blonďatí, jak kdyby pocházeli ze Švédska. Po tom, co zaměstnanec muzea odešel, se
 s námi paní dala do řeči. Říkala, že pokud je to náš poslední den ve
 [Stockholmu](https://cs.wikipedia.org/wiki/Stockholm),
 doporučí nám nějaký bar, kam si můžeme večer zajít. Upřímně - to poslední, co jsme večer chtěli,
@@ -413,7 +414,7 @@ lokalitu baru na Google Maps na svém telefonu a potom se snažila lokalizovat b
 na naší nové mapce. Když místo našla, uvědomila si, že to nemá jak vyznačit.
 Začala tedy v kabelce hledat propisku. Celou dobu se po ní válel otrávený syn,
 kterého to v muzeu evidentně přestalo bavit už před nějakou dobou. Paní ale byla
-pořád úplně vvyrovnaná a otráveného syna si nevšímala. V klidu našla propisku,
+pořád úplně vyrovnaná a otráveného syna si nevšímala. V klidu našla propisku,
 vyznačila bar na naši mapku a poté se ještě zamyslela, zda ji nenapadne nějaké
 jiné místo, které by nám mohla doporučit. Napadla ji ještě restaurace kousek
 od [starého města](https://cs.wikipedia.org/wiki/Gamla_stan), ze které je podle
@@ -426,7 +427,7 @@ velice pěkné, že se nám snažili pomoct. Jejich ochoty si opravdu vážím!
 
 Z [muzea Hallwylska](https://en.wikipedia.org/wiki/Hallwyl_Museum) jsme se naposledy
 vydali do [starého města](https://cs.wikipedia.org/wiki/Gamla_stan). Klára si tam
-chtěla koupit svetr, který si předchozí den vyhlédla v jenom z mnoha butiků. Když
+chtěla koupit svetr, který si předchozí den vyhlédla v jednom z mnoha butiků. Když
 jsme ale dorazili na místo, obchod byl už zavřený, takže z nákupu sešlo.
 
 Poslední večer jsme si řekli, že se trošku rozšoupneme, takže jsme našli pěknou
@@ -452,11 +453,11 @@ Letadlo do [Vídně](https://cs.wikipedia.org/wiki/V%C3%ADde%C5%88) nám letělo
 Let nebyl ničím zajímavý. Většinu času jsem pospával, nebo pozoroval švédská jezera
 a chvíli před přistáním [Alpy](https://en.wikipedia.org/wiki/Alps).
 
-Ve [Vídni](https://cs.wikipedia.org/wiki/V%C3%ADde%C5%88) jsme se přesnuli
+Ve [Vídni](https://cs.wikipedia.org/wiki/V%C3%ADde%C5%88) jsme se přesunuli
 na [hlavní vlakové nádraží](https://cs.wikipedia.org/wiki/Wien_Hauptbahnhof), kde
-jsme si chtěli dát pozdní oběd. V jindy relativně prázdném food courtu byly tenktokrát mraky lidí.
+jsme si chtěli dát pozdní oběd. V jindy relativně prázdném food courtu byly tentokrát mraky lidí.
 Většinou se jednalo o ženy a děti z [Ukrajiny](https://cs.wikipedia.org/wiki/Ukrajina).
-Abych pravdu řekl, pohled na jejich věškerý majetek sbalený do jednoho kufru mi
+Abych pravdu řekl, pohled na jejich veškerý majetek sbalený do jednoho kufru mi
 nedělal moc dobře. Na oběd jsem si dal bramborový guláš s chlebem a
 nakládaným okurkem z [Würstel Boutique](http://wuerstelboutique.at/). Klára si
 koupila veggie bagetu v [Burger King](https://cs.wikipedia.org/wiki/Burger_King).
