@@ -9,7 +9,7 @@ description: Description of our weekend in Stockholm.
 
 &nbsp;
 
-Byly časy, kdy jsem si myslel, že do [[Stockholmu](https://cs.wikipedia.org/wiki/Stockholm)](https://cs.wikipedia.org/wiki/Stockholm)
+Byly časy, kdy jsem si myslel, že do [Stockholmu](https://cs.wikipedia.org/wiki/Stockholm)
 vůbec nepojedeme. Nakonec jsme se tam ale vypravili na začátku března roku 2022.
 
 Do [hlavního města Švédska](https://cs.wikipedia.org/wiki/Stockholm)
