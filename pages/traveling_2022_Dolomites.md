@@ -55,28 +55,29 @@ přemýšlet nejen o tom, kde přespíme my, ale i o tom, kde necháme stát aut
 Nakonec jsem to vyřešil tak, že jsem autu rezervoval místo ve firemní
 garáži a nám s Klárou jsem objednal hotel přímo naproti kanceláří. Když jsme
 přijížděli k firmě, všiml jsem si, že před námi do garáže vjíždí auto. A tak jsem
-šlápl na plyn a zařadil se za auto, abych nemusel vystupovat a kartičkou si
-otevírat vrata. Vjel jsem tedy do garáže, ve které jsem nikdy předtím autem
-nezajížděl a měl jsem radost, jak se mi to povedlo. Při projíždění kolem
-parkovacích míst jsem ale všude viděl nápis "private" a žádné parkovací místo
-nebylo označeno logem naší firmy, jak jsem čekal. Po chvíli jsme se proto zeptali
+šlápl na plyn a zařadil se těsně za auto před námi, abych nemusel vystupovat a
+kartičkou si otevírat vrata. Vjel jsem tedy do garáže, do které jsem nikdy předtím
+autem nevjížděl a měl jsem radost z toho, jak se mi podařilo ušetřit několik vteřin
+drahocenného času. Když jsme ale projížděli garáží, u každého parkovacího místa
+byl nápis "private" a žádné parkovací místo nebylo označeno logem naší firmy,
+jak jsem očekával. Po chvíli jsme se proto zeptali
 náhodného pána v garáži, zda neví, kde bychom firemní parkovací místa mohli najít.
 Ten nám sdělil, že podle něj všechna místa patří obyvatelům rezidenčního objektu,
-který s firemními kancelářemi přímo sousedí. Já tedy pochopil, že jsem se spletl
-a vjel do úplně jiných vrat. Vyjeli jsme tedy z garáží zase ven, tentokrát použili
+který s firmou přímo sousedí. Já tedy pochopil, že jsem se spletl
+a vjel do úplně jiných vrat. Vyjeli jsme tedy z podzemí zase ven, tentokrát použili
 kartičku ke vjezdu a rázem se otevřela vrata hned vedle těch, do kterých jsme vjeli
 původně. V druhé podzemní garáži už byla parkovací místa hezky označena firemním
-logem, takže jsme našli naše parkovací místo a pohodlně zaparkovali.
+logem, takže jsme našli to naše a pohodlně zaparkovali.
 
 Po martyriu spojeném s hledáním parkovacího místa nám vyhládlo, a tak jsme zašli
 na jídlo do [Bistra Kro](https://www.krokitchen.cz/),
 jednoho z oblíbených karlínských podniků, který se
 zaměřuje na kuřecí speciality. Oba jsme si dali signature food v podobě trhaného
 kuřecího masa s rýží, grilovanou zeleninou a kimči. Musím říct, že mi jídlo
-moc chutnalo, takže až budu zase někdy v pražské kanceláři s ostatními dlouho
-přemýšlet o tom, kam zajít na oběd, příště budu mít jasno!
+moc chutnalo, takže až budou zase někdy ostatní kolegové v pražské kanceláři
+dlouho přemýšlet o tom, kam zajít na oběd, já budu mít jasno!
 
-Po jídle jsme se zašli na kávu a zákusek do podniku, který se jmenuje
+Po jídle jsme zašli na kávu a zákusek do podniku, který se jmenuje
 [Můj šálek kávy](https://mujsalekkavy.cz/en/).
 O této kavárně jsem, narozdíl od Kláry, nikdy neslyšel, ale prostředí se
 mi moc líbilo. A co víc!? Ochutnal jsem tam asi nejlepšího tvarohového míšu
@@ -87,18 +88,18 @@ Po jídle jsme se prošli po Karlíně, navštívili
 a poté zamířili do kanceláře, kde jsem udělal Kláře menší komentovanou prohlídku
 našich pracovních prostor. Po prohlídce jsme zamířili na hotel. Ubytovali jsme se
 a na chvíli si zdřímli. Přijde mi, že jsme už asi staří, ale ta cesta, jídlo
-a horko nás natolik zmohly, že jsme prostě vytuhli.
+a horko nás zmohly natolik, že jsme prostě vytuhli.
 
-Když jsme se probudili, byl už 18 hodin a to neznamenalo nic jiného, než že byl
+Když jsme se probudili, bylo už 18 hodin a to neznamenalo nic jiného, než že byl
 čas večeře. Rozhodli jsme se, že když jsme v Praze po dlouhé době spolu, vyzkoušíme
 ještě jeden slavný karlínský podnik, kterým je [Eska](https://eska.ambi.cz/cz/)
 ze sítě Ambiente. Jedná se o fine diningovou restauraci v industriálním stylu, která se
-nachází naproti [Foru Karlín](https://www.forumkarlin.cz/en/).
+nachází naproti [Fora Karlín](https://www.forumkarlin.cz/en/).
 Já jsem na předkrm vyzkoušel chřest s vejcem 63 a silným šunkovým vývarem.
 Potom jsem váhal, zda si dát druhý chod, nebo ne. Nakonec jsem si dal "jejich"
-pečené brambory v pěně s grilovaným kaprem a koprem a to byla chyba. Jídlo sice
-nebylo špatné, ale bylo toho na mě už tolik, že jsem to nemohl dojíst a potom jsem
-se necítil dobře.
+pečené brambory v pěně s grilovaným kaprem a koprem. A to byla chyba. Jídlo sice
+nebylo špatné, ale bylo toho na mě už tolik, že jsem to nemohl dojíst a potom
+jsem se necítil dobře.
 
 Naštěstí se nejednalo o nic dramatického, takže jsme mohli pokračovat v programu.
 Na naší pražské tour nás totiž čekala ještě jedna, řekl bych hlavní, zastávka,
@@ -111,7 +112,7 @@ trošku zklamalo. Nevím, zda jsme stáli na nějakém horším místě, ale pod
 celkový dojem hodně kazil špatný zvuk. Ani jeden z nástrojů nebyl moc konkrétní.
 Osobně jsem skoro nerozuměl hlavnímu zpěvákovi a doprovodné zpěvy jsem neslyšel
 vůbec. Co se týče show, ta byla nulová. Na druhou stranu, pokud by byl dobrý zvuk,
-žádná show by podle mě ani nebyla potřeba. Takto mě ale vystoupení ani moc nebavilo,
+žádná show by podle mě ani nebyla potřeba. Takto mě ale vystoupení moc nebavilo,
 a tak jsme před poslední písničkou odešli z O2 Areny dřív, abychom se nemuseli
 cpát s ostatními lidmi v metru na cestě na hotel.
 
@@ -140,7 +141,7 @@ check-outu na hotelové recepci, na které nepracoval jediný rodilý mluvčí, 
 recepční skoro naúčtovala dvě noci strávené v jiném pokoji. Naštěstí jsem si vedl
 evidenci o provedených platbách, takže jsem věděl, že hotel je už zaplacený.
 Po trošku neobvyklém check-outu jsme se pozdravili s naším panem ředitelem,
-který ve firemních garážích vyzvedával svoje auto stejně jako my, nasedli jsme
+který ve firemních garážích vyzvedával svoje auto stejně jako my. Nasedli jsme
 a vyrazili na jih.
 
 Po skoro šesti hodinách cesty a jedné zastávce v Linci v McDonald's na oběd jsme
@@ -149,7 +150,7 @@ malebné vesničky u stejnojmenného jezera, které je
 obklopeno horami ze všech stran. Nejdříve jsme zajeli do vedlejší vesničky
 Obertraun, kde jsme se ubytovali v penzionu u slovensky mluvící paní. Ta nám dala
 několik tipů, co můžeme v okolí [Hallstattu](https://cs.wikipedia.org/wiki/Hallstatt)
-dělat, ale my měli program na ten den jasný. Chtěli jsme vidět samotný
+dělat, ale my měli program na ten den jasný - chtěli jsme vidět samotný
 [Hallstatt](https://cs.wikipedia.org/wiki/Hallstatt).
 
 Auto jsme nechali na malém parkovišti kousek za cedulí u vjezdu do vesnice, vybrali
@@ -189,20 +190,20 @@ Ráno jsme tedy vstali, dali si klasickou alpskou snídani v podobě pečiva s m
 salámem, sýrem a zeleninou, nasedli do auta a vyrazili na cestu!
 
 Zastavili jsme pouze jednou na benzince a poté v jedné malé horské vesničce na
-oběd. Zaparkovali jsme auto kousek od návsi a nějakou dobu hledali podnik, kde
+oběd. Zaparkovali jsme auto kousek od návsi a chvíli hledali podnik, kde
 bychom se mohli najíst. Po nějaké době jsme uviděli vývěsní štít s logem irského
-piva Guinness, pod kterým svítil neonový nápis "open". Vešli jsme proto dovnitř
+piva Guinness, pod kterým svítil neonový nápis "OPEN". Vešli jsme proto dovnitř
 a řekli si, že zkusíme štěstí. Ocitli jsme se v temné chodbičce, kterou se
 procházelo dál do hlavní části lokálu kolem páchnoucích záchodů. Po chvíli jsme
 přišli do velké temné místnosti, která byla vyzdobena plakáty s různými světovými
 značkami piva, smrděla po cigaretách a nikdo v ní nebyl. Nejdřív jsem si
 myslel, že někdo stojí v koutě místnosti a dívá se na mě. Po chvíli jsem si ale
-uvědomil, že je to jen další kartonová dekorace v podobě (pro mě neznámého)
+uvědomil, že je to jen další kartonová dekorace v podobě pro mě neznámého
 filmového hrdiny. Když jsem se ale otočil a našel bar, zjistil jsem, že za ním
 stojí tlusťoučký postarší pán. Přišli jsme tedy za ním a zeptali se, zda je možné
 se v jeho podniku najíst. On na to odvětil, že se máme posadit. V temném
 prostředí se nám moc sedět nechtělo, a tak jsme vyšli velkými dveřmi ven na
-dlážděnou zahrádku, na které se nacházela spoustu nejrůznějších květináčů,
+dlážděnou zahrádku, na které se nacházela spousta květináčů,
 stromů a nevkusného nábytku. Vzali jsme místo a v menu si vybrali plněné
 těstovinové taštičky. Já jsem si objednal taštičky plněné mletým masem, Klára
 si vybrala taštičky plněné mačkanými brambory. Během čekání na jídlo Klára
@@ -210,7 +211,7 @@ vytáhla telefon a začala pročítat
 [recenze na Googlu](https://www.google.com/maps/place/Bar-Restaurant+Piano/@46.7505075,13.1777991,16z/data=!4m13!1m7!3m6!1s0x4770ab6edd7e99ff:0x7b10624adf1acdc!2sGreifenburg,+Rakousko!3b1!8m2!3d46.7506974!4d13.1809373!3m4!1s0x0:0x93a585678d798a20!8m2!3d46.7505345!4d13.1817297).
 Po chvíli telefon odložila se slovy, že pokud se tam chce najíst, dál číst nemůže.
 Nakonec se ukázalo, že naše očekávání byla horší než realita. Podnik sice nevypadal
-nejlépe, ale jídlo nám oběma moc chutnalo. Pán mě potom ještě nechal odejít na náves
+nejlépe, ale jídlo nám moc chutnalo. Pán mě potom ještě nechal odejít na náves
 do bankomatu, abych si vybral peníze na zaplacení. Karty totiž nepřijímali.
 
 Po nevšedním obědě v [restauraci](http://www.pianobar.at/), která byla vyhrazena
@@ -219,7 +220,7 @@ jen pro nás, jsme pokračovali v cestě. A jeli jsme tak dlouho, až jsme kolem
 která se nachází v severní Itálii kousek za rakouskými
 hranicemi. Ubytovali jsme se v penzionu na konci vesnice. Byla to velká patrová
 budova s bílou fasádou a výraznými dřevěnými prvky. Nepřipomíná vám to něco?
-Mně se při takovém popisu vybaví Řeka 142 a Bobova vysněná chalupa v alpském
+Mně by se při takovém popisu vybavila Řeka 142 a Bobova vysněná chalupa v alpském
 stylu. Myslím, že jemu by se náš penzion opravdu moc líbil.
 
 &nbsp;
@@ -232,7 +233,7 @@ stylu. Myslím, že jemu by se náš penzion opravdu moc líbil.
 
 Po check-inu jsme si vzali vodu a vyrazili na průzkum okolí. Prošli jsme
 se kolem řeky až na druhý konec vesnice. Cestou zpět jsme se zastavili v kostele
-a vyšlápli si kopec nad ním, odkud jsme měli možnost vidět široko do okolí.
+a vyšlápli si kopec nad ním, odkud jsme měli možnost vidět široko do údolí.
 Procházku jsme zakončili v [Pizzerii Erich](https://www.tripadvisor.com/Restaurant_Review-g194915-d3456249-Reviews-Pizzeria_Ristorante_Erich-Sesto_Province_of_South_Tyrol_Trentino_Alto_Adige.html),
 jen kousek od našeho penzionu, kde jsme byli ten den poprvé na večeři.
 
@@ -265,37 +266,38 @@ košík s pečivem, máslo, domácí lučina, marmeláda, jogurt, musli a palač
 nás usadila ke stolu u okna a zeptala se, zda máme zájem o kávu nebo čaj. Za chvíli
 přicupitala s konvicí čaje, dvěma skleničkami džusu a dvěma malými talířky.
 Na jednom z nich byl výběr salámů, na druhém několik plátků sýra. A tento scénář
-se opakoval každý následující den. Paní se jen už neptala, zda si dáme čaj,
-protože věděla, že kávu nechceme. A taky nám už nikdy nenaservírovala palačinky.
-Já jsem tedy každý den jedl to stejné - pečivo s lučinou, salámem a sýrem. Klára
-naopak volila vždy jinou sladkou variantu snídaně.
+se opakoval každý následující den. Paní se sice už neptala, zda si dáme čaj nebo kávu
+a taky nám už nikdy nenaservírovala palačinky, jinak bylo ale menu stejné.
+Já jsem tedy každý den jedl pečivo s lučinou, salámem a sýrem. Klára naopak volila
+vždy jinou sladkou variantu snídaně.
 
 Bylo také zajímavé pozorovat, jak si paní pamatovala různé stravovací návyky svých
 hostů. My jsme např. první den nesnědli musli, a tak jsme už následující den žádné
-nedostali. Nebo druhý den našeho pobytu jsem nevypil pomerančový džus, takže od
-třetího dne jsme dostávali vždy už jen jeden. Naopak tomu bylo u vedlejšího stolu.
+nedostali. Dalším příkladem může být druhý den našeho pobytu, kdy jsem nevypil
+pomerančový džus, takže od třetího dne jsme dostávali vždy už jen jeden.
+Naopak tomu bylo u vedlejšího stolu.
 Německy mluvící pár jedlíků ve středních letech vždy vyluxoval úplně celý stůl.
 Není se tedy čemu divit, že ti dostali každý den musli, jogurt i dva džusíky.
 
-Paní se taky velice často snažila o ranní small talk se svými hosty. Často se
+Paní se taky každý den snažila o ranní small talk se svými hosty. Často se
 tedy stávalo, že když donesla na stůl salámy a sýry, prohodila s nimi pár vět.
 Stejně jako všichni domorodci z Dolomit uměla mluvit italsky i německy, takže
-komunikace s ostatními hosty z Rakouska nebo Itálie pro ni nebyl problém.
-Problém ale nastal, když přišla k nám, jediným hostům, kteří uměli jen česky a
+komunikace s ostatními hosty z Rakouska nebo Itálie jí nečinila problém. Problém
+ale nastal, když zkusila komunikovat s námi, jedinými hosty, kteří uměli jen česky a
 anglicky. Jednou k nám paní přišla s jídlem a na něco se nás zeptala. V jedné větě
 tehdy použila slova "Samstag" a "Haus". Já si z toho vyvodil, že se nás ptá, zda
 už v sobotu jedeme domů. To byla pravda, takže jsem odpověděl: "Ja." Chtěl jsem
 se paní taky na něco zeptat. Ve své zásobě německých vět jsem měl ale jen těžko
 pro konverzaci použitelné jazykolamy "Meine Mäuse haben Läuse" a "In der Höhle,
 klagt der Löwe", a tak jsem s vypětím všech sil zkombinoval angličtinu s němčinou
-a pokusil se přepoužít pro mě nové slovíčko "Haus" v následující větě:
-"This Haus ist dust Haus?" Snažil jsem se zeptat, zda jí patří penzion, ve kterém
+a pokusil se přepoužít pro mě nové slovíčko "Haus" ve větě: "This Haus ist dust
+Haus?", čímž jsem se snažil zeptat, zda jí patří penzion, ve kterém
 se nacházíme. Paní asi pochopila, na co se ptám, a tak s úsměvem odpověděla "Ja."
 Potom paní ale došlo, že s námi si moc nepokecá, takže v diskuzi už nepokračovala.
-V následujících dnech se už paní ani moc nesnažila, a tak se naše konverzace smrskla
-pouze na dvě věty. Ona se vždy zeptala: "So... gut?", a já odpověděl: "Alles gute!"
+V následujících dnech se už ani moc nesnažila, a tak se naše konverzace smrskla
+pouze na dvě věty. Paní se vždy zeptala: "So... gut?", a já odpověděl: "Alles gute!"
 
-Po snídani nás čekal první celý den v Dolomitech. A ten nešlo strávit jinak, než
+Po snídani nás čekal první celý den v Dolomitech. A ten nešlo strávit jinak než
 u symbolu celého regionu, [skal Tre Cime](https://cs.wikipedia.org/wiki/Tre_Cime).
 Cesta autem k chatě [Rifugio Auronzo](http://www.rifugioauronzo.it/), u
 které začínala naše túra, nám zabrala asi 2 hodiny. Z toho polovinu času
@@ -381,10 +383,10 @@ jehličnatými lesy a zvlášť na začátku byl terén velice lehký a dobře p
 To se změnilo až na druhé straně jezera, kde ubylo stromů a naopak přibylo kamení.
 A taky krav! Pokud na [Kubě](https://cs.wikipedia.org/wiki/Kuba) mají
 [Zátoku Sviní](https://cs.wikipedia.org/wiki/Z%C3%A1toka_Svin%C3%AD) a na
-[Bahamách](https://cs.wikipedia.org/wiki/Bahamy) se můžete koupat s divokými prasaty na
-[Pláži prasat](https://en.wikipedia.org/wiki/Pig_Beach),
-u [Lago di Braies](https://cs.wikipedia.org/wiki/Lago_di_Braies) mají zase krávy.
-V jednom místě se totiž u jezera páslo stádo krav. A některé z nich neváhaly a
+[Bahamách](https://cs.wikipedia.org/wiki/Bahamy) se můžete koupat s divokými
+prasaty na [Pláži prasat](https://en.wikipedia.org/wiki/Pig_Beach),
+pak u [Lago di Braies](https://cs.wikipedia.org/wiki/Lago_di_Braies) mají zase krávy!
+V jednom místě se u jezera páslo stádo krav a některé z nich neváhaly a
 šly se v teplém počasí osvěžit do vody. Někteří lidé považovali krávy za obrovskou
 atrakci, a tak se s velkými býložravci fotili, hladili je, nebo se dokonce kousek
 od nich koupali. Na začátku naší túry jsem měl taky chuť skočit do vody. Když
@@ -410,7 +412,7 @@ za kterým ční majestátní skalnaté hory. Tyto fotky jsou pro mě
 dalším symbolem Dolomit, takže návštěvu vesničky jsme nemohli vynechat. Při cestě
 zpět k autu začalo pršet, a tak jsme se zastavili v moderním
 [Hotelu Tyrol](https://www.tyrol-hotel.eu/en/hotel-tyrol-1.html), kde
-jsme si dali kávu a zákusek v podobě klasického jablečného štrůdlu.
+jsme si dali kávu a zákusek v podobě vynikajícího jablečného štrůdlu se šlehačkou.
 
 &nbsp;
 
@@ -426,12 +428,11 @@ k poslední zastávce daného dne, jezeru
 jsme zaparkovali auto na parkovišti a prošli se kolem malebného jezera s průzračnou
 modrou vodou, které je položeno v nadmořské výšce 1,500 m n. m. Jezero je o dost
 menší než [Lago di Braies](https://cs.wikipedia.org/wiki/Lago_di_Braies),
-takže nám procházka na úpatí okolních skalnatých hor
-nezabrala více než 30 minut. Mně osobně se
-[Lago di Carezza](https://en.wikipedia.org/wiki/Karersee) líbilo asi nejvíce ze
-všech jezer v Dolomitech. Malé jezero položené vysoko v horách, s malým počtem
-návštěvníků, křišťálově modrou vodou a nulovým počtem hotelů působilo úplně jinak
-než ostatní jezera obklopená hromadou lidí, krávami, nebo komerčními stavbami.
+takže nám procházka na úpatí okolních skalnatých hor nezabrala více než 30 minut.
+Mně osobně se [Lago di Carezza](https://en.wikipedia.org/wiki/Karersee) líbilo asi
+nejvíce ze všech jezer v Dolomitech. Malé jezero položené vysoko v horách, s malým
+počtem návštěvníků, křišťálově modrou vodou a nulovým počtem hotelů působilo úplně
+jinak než ostatní jezera obklopená hromadou lidí, krávami, nebo komerčními stavbami.
 
 &nbsp;
 
@@ -453,11 +454,11 @@ Třetí den v Dolomitech byl pro mě strašák. Před odjezdem do Itálie nám p
 počasí ukazovala, že má celý týden pršet. Dlouho jsme se proto rozhodovali, zda
 dovolenou na poslední chvíli nezrušit. Během pár dní před příjezdem do Dolomit
 se ale předpověď ustálila na tom, že pršet by mělo pouze v průběhu našeho třetího
-dne dovolené. Ráno po probuzení se mi tedy nevstávalo úplně dobře, protože jsme
-měl tušení, že zmokneme.
+dne dovolené, a tak jsme se nakonec rozhodli do Itálie vyrazit. Ráno po probuzení
+se mi ale nevstávalo úplně dobře, protože jsme měl tušení, že zmokneme.
 
 Klára se naopak po negativní zkušenosti se sluníčkem nějakému dešti nebránila,
-a tak jsme zašli na snídani a potom vyrazili vstříc novým dobrodružstvím.
+a tak jsme zašli na snídani a potom vyrazili vstříc novému dobrodružství.
 
 Asi po dvou hodinách cesty jsme dorazili do malého městečka St. Ulrich vysoko
 v horách, kde jsme nechali auto v místních podzemních garážích a nastoupili
@@ -468,10 +469,10 @@ na zelenou polanu [Alpe di Siusi](https://en.wikipedia.org/wiki/Seiser_Alm),
 která byla řídce posetá malými dřevěnými
 chaloupkami a z druhé strany ohraničena vysokými skalnatými horami. Pokud si nějak
 představuji ráj, tak takto. Moje emoce byly v tu chvíli jako na horské dráze. V lanovce
-jsem měl strach z obrovské výšky, ve které jsme se nacházeli, a pořád jsem přemýšlel nad
+jsem měl strach z obrovské výšky, ve které jsme se nacházeli, a navíc jsem pořád přemýšlel nad
 tím, že pokud ten den přijde bouřka, tak na horách zemřeme. Potom jsme ale vystoupili
 ven a mě naplnil pocit obrovského štěstí a vděčnosti, že můžu něco tak nádherného
-vidět na vlastní oči. Bylo to neskutečné!
+vidět na vlastní oči. Bylo to pro mě neuvěřitelné!
 
 &nbsp;
 
@@ -486,7 +487,7 @@ máslem, salámem a sýrem, který jsme si udělali v našem penzionu na snídan
 společně s Klárou jsme vyrazili na 10 km dlouhou túru po
 [Alpe di Siusi](https://en.wikipedia.org/wiki/Seiser_Alm).
 Asi po 10 minutách chůze po zelené louce jsem začal pozorovat, že na obzoru se
-jedna z mnoha vysokých hor zaříná zahalovat do hustých šedých mraků. V tu chvíli
+jedna z mnoha vysokých hor začíná zahalovat do hustých šedých mraků. V tu chvíli
 jsem si říkal, že bouřka je tady. Naštěstí to nebyla bouřka, ale jen déšť. Já jsem
 si oblékl bundu, Klára vytáhla pláštěnku a v hustém dešti jsme pokračovali dál.
 Asi po 20 minutách mrak zmizel, vysvitlo sluníčko a nám se znovu otevřel výhled
@@ -500,7 +501,7 @@ na malebné okolí.
 
 &nbsp;
 
-Trasa naší túry nejdříve vedla po asfaltové cestě až k Hotelu Panorama, kde jsme
+Trasa naší túry nejdříve vedla po asfaltové cestě k Hotelu Panorama, kde jsme
 si dali kávu a pravděpodobně zkažený zákusek s názvem "Dark Forest". Naštěstí nám nebylo
 špatně, a tak jsme pokračovali dál po zelených loukách kolem dřevěných chaloupek
 zpět k lanovce. Každou chvíli jsem se zastavoval, abych si udělal fotku majestátního
@@ -511,9 +512,9 @@ Myslím, že nebudu přehánět, když řeknu, že polana
 míst, které jsem kdy ve svém životě navštívil.
 
 Po nádherné túře jsme sjeli lanovkou z Mont Seuc zpět do městečka St. Ulrich,
-zaplatili za parkování vydali se zpět do Sesta. Tam jsme zašli na večeře do
+zaplatili za parkování a vydali se zpět do Sesta. Tam jsme zašli na večeři do
 "naší" [Pizzerie Erich](https://www.tripadvisor.com/Restaurant_Review-g194915-d3456249-Reviews-Pizzeria_Ristorante_Erich-Sesto_Province_of_South_Tyrol_Trentino_Alto_Adige.html),
-kde nás už znali. Já jsem si dal ostrý guláš s kulatými
+kde nás už poznávali. Já jsem si dal ostrý guláš s kulatými
 knedlíky se speckem, Klára si objednala pizzu Italy s mozzarellou bufala.
 
 Po večeři jsme se přesunuli do penzionu a po náročném dni šli rovnou na kutě.
@@ -527,17 +528,17 @@ Poslední den v Dolomitech jsme měli na programu celodenní túru k jezeru
 dalšího z dolomitských jezer, které je unikátní tím, že k němu
 nevede žádná silnice, takže se k němu nedá dostat jinak než pěšky.
 
-Po snídani jsme proto sbalili batůžky, nasedli do auta a vyrazili k Hotelu Passo
+Po snídani jsme si proto sbalili batůžky, nasedli do auta a vyrazili k Hotelu Passo
 Tre Croci, hotelu někde v lese, kde lišky dávají dobrou noc a kde mj. začíná trek
 k [Lago di Sorapis](https://cs.wikipedia.org/wiki/Lago_di_Sorapiss).
 
 Cesta vedla nejdříve lesem po široké cestě kolem zachovalých opevnění z 1. světové
-války. Poté však cesta přešla v úzkou kamenitou horskou cestu. Ta nejdříve vedla
+války. Poté však cesta přešla v úzký kamenitý horský chodníček. Ten nejdříve vedl
 relativně po rovince, později se však začalo stoupat do strmých skal, kde jsme se
 museli přidržovat zábradlí, na některých úsecích stoupat po schodech a také se
 vyhýbat ostatním turistům jdoucím v protisměru nad vysokým srázem. Myslel jsem
 si, že túra bude v pohodě, ale ve skalách jsem pochopil, proč ji náš knižní
-průvodce označil střední náročností, ostatně jako jedinou z našich absolvovaných
+průvodce označil střední náročností, a to jako jedinou z našich absolvovaných
 túr na této dovolené.
 
 &nbsp;
@@ -548,7 +549,7 @@ túr na této dovolené.
 
 &nbsp;
 
-Když jsme přišli k jezeru, byla tam hromada lidí, kteří navíc chtěli ulovit co
+Když jsme přišli k jezeru, byla tam hromada lidí. Někteří navíc chtěli ulovit co
 nejlepší fotku, jak se vystavují na kameni uprostřed jezera, a tak kazili fotky
 nám ostatním. Na chvíli jsme si s Klárou sedli na rozpálené kameny na břehu,
 dali si oběd v podobě snídaňového menu z penzionu a malinko znechucení se vydali
@@ -563,18 +564,18 @@ na cestu zpět.
 &nbsp;
 
 Pokud cesta tam byla náročná, cesta zpět byla naprosté peklo. Naše špatná fyzická
-kondice, teplé počasí, náročný terén a malé zásoby vody si vybrali svoji daň.
-Po dvou hodinách na cestě zpět jsme proto byli rádi, že jsme dorazili zpět k autu
-a mohli se vydat zpět do Sesta. Cestou jsme se ještě zastavili u
+kondice, ostré slunce, náročný terén a malé zásoby vody si vybraly svoji daň.
+Po dvou hodinách na cestě zpět jsme proto byli rádi, že jsme dorazili zpět
+k autu a mohli se vydat do Sesta. Cestou jsme se ještě zastavili u
 [Lago di Misurina](https://cs.wikipedia.org/wiki/Lago_di_Misurina),
-kde jsme se občerstvili vodou a zákuskem v jedné místní restauraci. Po příjezdu
-na penzion jsme si chvíli lehli a odpočívali.
+kde jsme se občerstvili vodou a zákuskem v jedné z místních restaurací.
+Po příjezdu na penzion jsme si chvíli lehli a odpočívali.
 
 Když jsme se trošku vzpamatovali, vydali jsme se na večeři do "naší" restaurace,
 kde jsem vyzkoušel grilovanou zeleninu se sýrem a pečenými brambory. Klára znovu
 nezklamala a při naší třetí návštěvě restaurace si objednala třetí pizzu!
-Protože se jednalo o naši poslední večeři, rozhodl jsem se vyzkoušet místní pana
-cottu. A byla výborná!
+Protože se jednalo o naši poslední večeři, rozhodl jsem si dát zákusek v podobě
+místní pana cotty. A byla výborná!
 
 Po jídle jsme se přesunuli na penzion a začali se balit na cestu domů.
 
