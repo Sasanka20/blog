@@ -27,3 +27,4 @@ description: traveling section content page.
 
 - [Madrid](traveling_2022_Madrid.html)
 - [Stockholm](traveling_2022_Stockholm.html)
+- [Dolomity](traveling_2022_Dolomites.html)
