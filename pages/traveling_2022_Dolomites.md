@@ -607,8 +607,7 @@ a ubytoval se v [Hotelu Tyrol](https://www.tyrol-hotel.eu/en/hotel-tyrol-1.html)
 
 #### FOTKY
 
-Fotky z [Dolomit](https://cs.wikipedia.org/wiki/Stockholm) najdete
-[zde](https://photos.app.goo.gl/jXrqSh37icwFpc4W8).
+Fotky z Dolomit najdete [zde](https://photos.app.goo.gl/jXrqSh37icwFpc4W8).
 
 ---
 
