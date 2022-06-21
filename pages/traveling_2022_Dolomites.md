@@ -574,8 +574,8 @@ Po příjezdu na penzion jsme si chvíli lehli a odpočívali.
 Když jsme se trošku vzpamatovali, vydali jsme se na večeři do "naší" restaurace,
 kde jsem vyzkoušel grilovanou zeleninu se sýrem a pečenými brambory. Klára znovu
 nezklamala a při naší třetí návštěvě restaurace si objednala třetí pizzu!
-Protože se jednalo o naši poslední večeři, rozhodl jsem si dát zákusek v podobě
-místní pana cotty. A byla výborná!
+Protože se jednalo o naši poslední večeři, rozhodl jsem se dát si ještě zákusek
+v podobě místní pana cotty. A musím říct, že byla výborná!
 
 Po jídle jsme se přesunuli na penzion a začali se balit na cestu domů.
 
