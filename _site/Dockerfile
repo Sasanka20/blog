@@ -1,8 +1,8 @@
-FROM jekyll/jekyll:4.0 as python-base
+FROM jekyll/jekyll:4.1.0 as blog-base
 MAINTAINER Jaroslav Bezdek
 
 COPY Gemfile .
-COPY Gemfile.lock .
+# COPY Gemfile.lock .
 
 RUN bundle install
 
