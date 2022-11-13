@@ -29,3 +29,4 @@ description: traveling section content page.
 - [Stockholm](traveling_2022_Stockholm.html)
 - [Dolomity](traveling_2022_Dolomites.html)
 - [Dubrovník](traveling_2022_Dubrovnik.html)
+- [Paříž](traveling_2022_Pariz.html)
